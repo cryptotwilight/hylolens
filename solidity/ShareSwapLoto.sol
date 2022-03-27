@@ -7,7 +7,7 @@ import "@chainlink/contracts/src/v0.8/Denominations.sol";
 
 import "@uniswap/v3-periphery/contracts/interfaces/ISwapRouter.sol";
 import "@uniswap/v3-periphery/contracts/libraries/TransferHelper.sol";
-
+import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/76eee35971c2541585e05cbf258510dda7b2fbc6/contracts/token/ERC20/IERC20.sol"
 
 contract ShareSwapLoto { 
 
